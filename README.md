@@ -1,23 +1,33 @@
 # Simple Downloader Website
 
-This is the official website for Simple Downloader, a user-friendly application for downloading YouTube videos and audio.
+Welcome to the official website for **Simple Downloader**, your user-friendly solution for downloading YouTube videos and audio.
 
-## Features
+---
 
-- Easy-to-use interface
-- Download videos in different quality settings
-- Extract audio from videos
-- Custom filename option
-- No ads or bloatware
+## 🚀 Features
 
-## Website Sections
+- **Easy-to-use interface**
+- **Download videos** in multiple quality settings
+- **Extract audio** from videos
+- **Custom filename** option
+- **No ads or bloatware**
 
-- Home page with product overview
-- How to Use tutorial with step-by-step instructions
-- Features showcase
-- Why Choose Simple Downloader
-- Purchase information
+---
 
-## About
+## 🌐 Website Sections
+
+- **Home Page:** Product overview
+- **How to Use:** Step-by-step tutorial
+- **Features:** Showcase of capabilities
+- **Why Choose Simple Downloader:** Key benefits
+- **Purchase Information:** How to buy
+
+---
+
+## ℹ️ About
 
 Simple Downloader is a lightweight desktop application that allows users to easily download YouTube content for offline viewing.
+
+---
+
+> For more information, visit the [GitHub repository](https://github.com/Bradderz65/SimpleDownloader).
